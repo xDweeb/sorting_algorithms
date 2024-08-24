@@ -1,6 +1,6 @@
 # C - Sorting algorithms & Big O
 
-This is an algorithm-based project in C Programming Language, by **Ayomide Suara** and **Mohamed Ibrahima Traore** during the Full Stack Software Engineering studies at **ALX**. Several sorting algorithms are implemented, as well as their corresponding Big O notations.
+This is an algorithm-based project in C Programming Language, by **Taibi El Yakouti** during the Full Stack Software Engineering studies at **ALX**. Several sorting algorithms are implemented, as well as their corresponding Big O notations.
 
 ## Tests :heavy_check_mark:
 
@@ -160,7 +160,7 @@ Function Prototype:
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Taibi El Yakouti</summary>
     <ul>
     <li><a href="https://www.github.com/xDweeb">Github</a></li>
     <li><a href="https://www.twitter.com/elyakouti.web">Twitter</a></li>
