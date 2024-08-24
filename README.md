@@ -69,7 +69,7 @@ typedef struct deck_node_s
 	struct deck_node_s *next;
 } deck_node_t;
 ```
-
+ 
 Function Prototype:
 
 | File               | Prototype                             |
